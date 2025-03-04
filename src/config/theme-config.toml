@@ -57,6 +57,48 @@ color = "green"
 
 [[directory.tags]]
 key = "timer"
+name = "Timer"
+color = "gray"
+
+[[directory.tags]]
+key = "marketing & copy"
+name = "Marketing & Copy"
+color = "indigo"
+
+[[directory.tags]]
+key = "dev tools"
+name = "Developer Tools"
+color = "blue"
+
+[[directory.tags]]
+key = "SaaS"
+name = "SaaS"
+color = "green"
+
+[[directory.tags]]
+key = "AI"
+name = "AI"
+color = "indigo"
+
+[[directory.tags]]
+key = "design"
+name = "Design"
+color = "blue"
+
+[[directory.tags]]
+key = "audio"
+name = "Audio"
+color = "green"
+
+[[directory.tags]]
+key = "productivity"
+name = "Productivity"
+color = "indigo"
+
+[[directory.tags]]
+key = "writing"
+name = "Writing"
+color = "blue"
 
 [header.banner]
 show = true
